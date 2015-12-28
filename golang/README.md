@@ -28,7 +28,7 @@ It's recommended to set a save hook in your editor of choice that runs `goimport
 - Carefully consider adding dependencies to your project: Do you really need it?
 - Manage third-party dependencies with [godep][godep-guide]
 
-[godep-guide]: golang/godep.md
+[godep-guide]: https://github.com/nildev/docs/blob/master/golang/godep.md
 
 ## Shared Code
 
